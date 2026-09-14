@@ -1,0 +1,7 @@
+{
+  "name": "NTR Vision AI",
+  "description": "Maharashtra State Board Class 10th complete 25-page in-depth notes for all subjects (Science 1 & 2, Math 1 & 2, Marathi, English, History, Geography) with prompt scientific reasons, 10-year board question papers (2015-2024), future predicted questions (2025-2026), interactive mind maps, and My Account profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
